@@ -1,0 +1,11 @@
+http://localhost:3000/auth/login   para el login 
+token:
+{"email": "demo@agenda.cl", "password": "123456"}
+
+http://localhost:3000/reservas para hacer reservas
+
+demo@agenda.cl
+123456
+
+Email: admin@agenda.cl
+Password: 123456
